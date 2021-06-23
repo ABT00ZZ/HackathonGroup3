@@ -1,0 +1,6 @@
+This following link will help you access the Power BI dashboard that we created for the 3M 2021 Hackathon.
+You will need to request access from Team 3 in order to view the dashboard.
+
+
+https://app.powerbi.com/groups/378d4208-3955-47a5-b066-75c06403537e/reports/
+85024668-63b6-4241-9470-795eb891095f?ctid=facac3c4-e2a5-4257-af76-205c8a821ddb&pbi_source=linkShare
